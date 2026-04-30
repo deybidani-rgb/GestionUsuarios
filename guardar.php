@@ -12,3 +12,4 @@ $conexion->query($sql);
 
 header("Location: index.php");
 ?>
+
