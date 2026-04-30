@@ -37,6 +37,7 @@ while ($fila = $resultado->fetch_assoc()) {
 }
 ?>
 
+
 </table>
 
 </body>
